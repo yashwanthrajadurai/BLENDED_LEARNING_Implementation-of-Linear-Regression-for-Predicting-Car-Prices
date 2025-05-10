@@ -29,10 +29,6 @@ Plot residuals to check for homoscedasticity, normality, and linearity.
 9. Output Results:
 Display the predictions and evaluation metrics.
 Program to implement linear regression model for predicting car prices and test assumptions.
-
-
-Developed by: S Harish
-RegisterNumber:  212223040062
 ## Program:
 ```
 
